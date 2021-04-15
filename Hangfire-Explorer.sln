@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hangfire-Explorer", "Hangfire-Explorer\Hangfire-Explorer.csproj", "{5C0DFAE6-12E5-4C30-BC94-691AFB6FD2D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hangfire-Explorer.Application", "Hangfire-Explorer.Application\Hangfire-Explorer.Application.csproj", "{8C4430EA-4779-43C2-84EE-B558F28C24CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C0DFAE6-12E5-4C30-BC94-691AFB6FD2D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C0DFAE6-12E5-4C30-BC94-691AFB6FD2D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C0DFAE6-12E5-4C30-BC94-691AFB6FD2D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C0DFAE6-12E5-4C30-BC94-691AFB6FD2D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C4430EA-4779-43C2-84EE-B558F28C24CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C4430EA-4779-43C2-84EE-B558F28C24CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C4430EA-4779-43C2-84EE-B558F28C24CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C4430EA-4779-43C2-84EE-B558F28C24CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE386D4B-9EF9-414C-AD6C-D0CECA2A6778}
+	EndGlobalSection
+EndGlobal
